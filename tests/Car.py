@@ -9,13 +9,14 @@ class Car:
         print("Model: " + self.model)
         print("Year: " + self.year)
 
+
 car1 = Car("BMW", "v8", "2019")
 car2 = Car("AUDI", "b4", "2934")
 car3 = Car("NISSAN", "juke", "2000")
 
 car1.print_car_info()
-print(f"___")
+print("___")
 car2.print_car_info()
-print(f"___")
+print("___")
 car3.print_car_info()
-print(f"___")
+print("___")
