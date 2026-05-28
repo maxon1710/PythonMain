@@ -1,1 +1,2 @@
-print("Python env OK") - LOX
+print("Python env OK")
+print("Hello World")
